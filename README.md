@@ -114,4 +114,4 @@ No se puede despachar: el pedido esta cancelado.
 
 ---
 
-## 📌 Proyecto académico — Semana 3 (SpeedFast)
+📌 Proyecto académico — Semana 3 (SpeedFast)
